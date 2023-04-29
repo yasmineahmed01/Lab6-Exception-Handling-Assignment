@@ -6,8 +6,14 @@ reorders the containers alphabetically by their name sub- container “"SHORT-NA
 -Autosar stands for AUTomotive Open System ARchitecture
 
 Batch file which invoke the three possible cases:
+
 • Normal case --> provide the input file and specify it’s name inside the batch script.
+
 • Not valid Autosar file case --> provide the file also
+
 • Empty file
+
 • The goal is that I’m able to run the batch file to test all cases.
+
 • Include compilation of the java file at the beginning
+
